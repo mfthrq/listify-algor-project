@@ -1,6 +1,6 @@
 # Listify | Simplify Your Item List
 ## Listify - Algorithm and Data Structure's Final Project - Semester 2 
-![pika-1686357013289-1x](https://github.com/mfthrq/listify-algor-project/assets/59170543/7dae7895-ffeb-4f74-ad70-e1846fcf7fa4)
+![pika-1686357480758-1x](https://github.com/mfthrq/listify-algor-project/assets/59170543/08e6bf7f-48c6-4b94-b9ec-cedf451db567)
 
 ## Group 6 Member
 - Cahya Rudiansah
