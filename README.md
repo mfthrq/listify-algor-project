@@ -2,8 +2,8 @@
 Listify - Project Akhir Algoritma dan Struktur Data - Semester 2 
 
 ## Techstacks
-Python
-VS Code
+- Python
+- VS Code
 
 ## Installation
 1. Open terminal on your local folder.
