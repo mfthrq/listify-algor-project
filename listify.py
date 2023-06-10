@@ -128,7 +128,7 @@ while True:
     print("6. Keluar")
     print("==============================")
     
-    choice = input("Masukkan Pilihan (1-5): ")
+    choice = input("Masukkan Pilihan (1-6): ")
 
     if choice == '1':
         nama = input("Masukkan Nama Item: ")
