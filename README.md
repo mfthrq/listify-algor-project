@@ -1,6 +1,6 @@
 # Listify | Simplify Your Item List
 ## Listify - Algorithm and Data Structure's Final Project - Semester 2 
-![pika-1686357480758-1x](https://github.com/mfthrq/listify-algor-project/assets/59170543/08e6bf7f-48c6-4b94-b9ec-cedf451db567)
+![pika-1686357480758-1x](https://github.com/mfthrq/listify-algor-project/assets/59170543/7361e2d4-a38a-4335-b4fa-e10d8848941d)
 
 ## Overview Project
 Listify is a project created to meet the needs of the Algorithm and Data Structure course. This project aims to implement queuing techniques in making item list applications.
